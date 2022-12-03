@@ -11,6 +11,9 @@ Another major improvement that could be made is developing the code so that this
 
 # Authors
 Ihona Maria Correa de Cabo: github |
+
 Noah Pereira:  github |
+
 Maria Pérez Rodríguez:  github |
+
 Ieva Seglina:  github |
